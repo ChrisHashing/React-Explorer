@@ -18,8 +18,8 @@ React-Explorer provides a set of customizable and easy-to-use React components. 
 To add react-explorer to your project, use npm or Yarn:
 
 ```bash
-npm install my-component-library
+npm install react-explorer
 
-yarn add my-component-library
+yarn add react-explorer
 ```
 
